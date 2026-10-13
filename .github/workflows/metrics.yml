@@ -12,7 +12,6 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -23,8 +22,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: arhumsharif
           filename: github-metrics.svg
-
-          base: header, activity, repositories, metadata
+          base: header, repositories, metadata
           config_timezone: Asia/Karachi
 
           plugin_languages: yes
