@@ -45,20 +45,20 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Analytics & Activity
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=arhumsharif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhumsharif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most used programming languages"
+    src="https://raw.githubusercontent.com/arhumsharif/arhumsharif/main/github-metrics.svg"
+    alt="GitHub profile metrics"
+    width="100%"
   />
 </p>
+
+
+---
+
+
 
 ### 🔥 Contribution Streak
 
