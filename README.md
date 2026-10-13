@@ -26,8 +26,8 @@
 - 💼 Software engineer with 5+ years of industry experience.
 - ⚙️ Experienced in backend systems, REST APIs, and microservices.
 - 🌐 Building full-stack applications and SaaS products.
-- 🤖 Exploring AI integrations and intelligent automation.
-- ☁️ Working with cloud infrastructure, Docker, and deployment pipelines.
+- 🤖 Working with AI integrations and intelligent automation.
+- ☁️ Experienced with cloud infrastructure, Docker, and deployment pipelines.
 - 🎯 Focused on clean architecture, performance, and maintainable code.
 
 ### 🛠️ Tech Stack
@@ -38,34 +38,22 @@
 
 ---
 
-<p align="center">
-  <i>Building reliable software, one problem at a time.</i>
-</p>
-
-
----
-
-### 📈 GitHub Analytics & Activity
+### 📊 GitHub Analytics
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/arhumsharif/arhumsharif/main/github-metrics.svg"
     alt="GitHub profile metrics"
-    width="100%"
+    width="85%"
   />
 </p>
-
 
 ---
 
+### 🚀 Featured Projects
 
-
-### 🔥 Contribution Streak
+<!-- Add your best projects here next. -->
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=arhumsharif&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+  <i>Building reliable software, one problem at a time.</i>
 </p>
-
