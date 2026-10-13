@@ -148,6 +148,22 @@
 
 ---
 
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:arhumsharif06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arhumsharif06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/arhum-sharif">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="tel:+923361772679">
+    <img src="https://img.shields.io/badge/Phone-%2B92--336--1772679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact number" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>Building reliable software, solving real problems, and shipping products that scale. 🚀</i>
 </p>
